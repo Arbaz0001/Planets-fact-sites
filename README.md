@@ -48,7 +48,8 @@ Open index.html in your browser.
 Explore!
 
 📸 Preview
-(Add screenshot or gif here if you want)
+(<img width="1076" height="821" alt="Screenshot 2025-07-09 215530" src="https://github.com/user-attachments/assets/3513bfd5-ddb2-487a-b291-c563c577fb88" />
+)
 
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change or improve.
